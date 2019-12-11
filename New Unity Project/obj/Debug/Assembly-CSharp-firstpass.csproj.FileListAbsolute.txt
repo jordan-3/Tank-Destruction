@@ -1,0 +1,2 @@
+C:\Users\jordanevelynfletcher\Documents\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\M00615355\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
